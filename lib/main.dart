@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_kiln_cake_kun_app/views/splash_screen_ui.dart';
+import 'package:flutter_kin_cake_kun_app/views/splash_screen_ui.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {

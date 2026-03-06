@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_kiln_cake_kun_app/views/cake_shop_list_ui.dart';
+import 'package:flutter_kin_cake_kun_app/views/cake_shop_list_ui.dart';
 
 class SplashScreenUi extends StatefulWidget {
   const SplashScreenUi({super.key});

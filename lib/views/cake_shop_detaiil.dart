@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_kiln_cake_kun_app/models/cake_shop.dart';
+import 'package:flutter_kin_cake_kun_app/models/cake_shop.dart';
 
 class CakeShopDetailUi extends StatefulWidget {
   // สร้างตัวแปรรับค่าที่ส่งมา
