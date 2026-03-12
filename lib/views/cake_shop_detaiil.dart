@@ -1,7 +1,7 @@
 // ignore_for_file: sort_child_properties_last
 
 import 'package:flutter/material.dart';
-import 'package:flutter_kiln_cake_kun_app/models/cake_shop.dart';
+import 'package:flutter_kin_cake_kun_app/models/cake_shop.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter_map/flutter_map.dart';

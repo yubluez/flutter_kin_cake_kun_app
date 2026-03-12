@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:flutter_kiln_cake_kun_app/models/cake_shop.dart';
-import 'package:flutter_kiln_cake_kun_app/views/cake_shop_detaiil.dart';
+import 'package:flutter_kin_cake_kun_app/models/cake_shop.dart';
+import 'package:flutter_kin_cake_kun_app/views/cake_shop_detaiil.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class CakeShopListUi extends StatefulWidget {
