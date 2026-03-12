@@ -26,6 +26,7 @@ class _CakeShopListUiState extends State<CakeShopListUi> {
   ];
 
   // ตัวแปรเก็บข้อมูลร้านเค้ก
+  //
   List<CakeShop> cakeShops = [
     CakeShop(
       name: 'Yellow Spoon Pastry',
