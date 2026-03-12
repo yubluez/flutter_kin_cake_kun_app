@@ -98,7 +98,7 @@ class _CakeShopDetailUiState extends State<CakeShopDetailUi> {
                   ],
                 ),
                 SizedBox(height: 20.0),
-                // ส่วนแสดงรายละเอียดร้าน
+                // ส่วนแสดงรายละเอียดร้านค้า
                 Align(
                   alignment: Alignment.centerLeft,
                   child: Text(
