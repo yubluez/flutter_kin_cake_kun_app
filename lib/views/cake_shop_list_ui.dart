@@ -66,7 +66,7 @@ class _CakeShopListUiState extends State<CakeShopListUi> {
       image3: 's33.jpg',
       description:
           'ร้านเค้กเล็กๆ ที่ความอร่อยไม่เล็ก เปิดบริการครั้งแรกเมื่อปี 2009 ที่ท่าพระจันทร์ ก่อนจะย้ายมาปักหลักอยู่ที่สี่แยกเหม่งจ๋าย แต่ยังคงไว้ซึ่งคุณภาพของรสชาติความอร่อยที่ไม่เปลี่ยนแปลงโดยเมนูเค้กและเบเกอรี่ของ Sweet Spell มีให้เลือกเติมความหวานกันแบบหลากหลายชนิด อาทิ เค้ก เครปเค้ก ชูครีม บานอฟฟี่ ชีสพาย และอีกมากมาย',
-      openCloseTime: 'ทุกวัน 10.00-20.00 น. \n(หยุดทุกวันที่ 15 ของเดือน)',
+      openCloseTime: 'ทุกวัน 10.00-20.00 น. (หยุดทุกวันที่ 15 ของเดือน)',
       website: 'http://www.sweetspell.com/dessert-menu/',
       facebook: 'https://www.facebook.com/sweetspellcafe',
       latitude: '13.771741',
@@ -126,7 +126,7 @@ class _CakeShopListUiState extends State<CakeShopListUi> {
       image3: 's73.jpg',
       description:
           'ร้านเค้กสไตล์โฮมเมดที่เริ่มจาก Made to order ก่อนขยับขยายมาเปิดหน้าร้านที่ซอยสุขุมวิท 26 และคงยังสร้างสรรค์เค้กรสชาติดีในรูปแบบต่างๆ หลากหลายสไตล์ไม่ว่าจะเป็น คัพเค้ก เค้กวันเกิด เค้กแต่งงาน หรือเค้กฉลองครบรอบวันสำคัญต่างๆ รวมถึงเบเกอรี่อื่นๆ อย่างคุกกี้ มาการอง ฯลฯ',
-      openCloseTime: '10.00-18.00 น. \n(หยุดวันอาทิตย์)',
+      openCloseTime: '10.00-18.00 น. (หยุดวันอาทิตย์)',
       website: 'http://www.bakeministry.net/',
       facebook: 'https://www.facebook.com/bakeministry',
       latitude: '13.7281129',
